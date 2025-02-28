@@ -1,22 +1,48 @@
-# Hi I am [Your Name] 👋
+# Hi there, I'm Bala Narayana Subbarao Chikkala 👋
 
-🌱 **I'm currently working on:** [e.g., Deep Learning, NLP, Microservices]  
-🌟 **I'm currently learning:** [e.g., Advanced NLP, Blockchain, etc.]  
-💬 **Ask me about:** [e.g., Computer Science, AI, etc.]  
-🔗 **How to reach me:** [e.g., LinkedIn, Email, etc.]  
+I'm an AI Engineer with 4.7+ years of experience designing and deploying cloud-native AI solutions in AWS/GCP. I have expertise in LLM-based NLP, deep learning, and scalable ML infrastructure. I've also improved sentiment analysis accuracy by 25% and reduced model deployment time by 50% through optimized MLOps pipelines.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
+## 💼 Experience
 
----
+* **AI Lead Engineer** | NebulAl | July 2024 - Present
+    * Led AI chatbot integration using GPT-3.5, AutoGen, Claude, and LLAMA, improving sentiment analysis accuracy by 25%, with API endpoints for seamless deployment.
+    * Developed a cloud-native analytics platform on AWS with Kubernetes, Docker, and YAML-based configurations, enhancing customer spending pattern analysis.
+    * Implemented predictive trend analysis using GANs and LangChain, increasing revenue by 20%, with RESTful APIs for real-time market forecasting.
+    * Optimized CI/CD pipelines with Jenkins, Bitbucket, and MLflow, automating model deployment with YAML-based workflows, reducing integration issues by 50%.
+* **AI Research Engineer** | University of North Texas | August 2022 - May 2024
+    * Developed a Speech Emotion Recognition (SER) system with STT, deep learning, and RAG using Pinecone embeddings, achieving 92.9% accuracy in emotion classification.
+    * Enhanced chatbot interactions by integrating SER for emotion-aware responses, enabling applications in healthcare, education, and conversational AI.
+    * Developed a breast cancer prediction model using histopathology images, leveraging vision transformers (ViTs) and contrastive learning on a dataset of 15,000+ images.
+    * Optimized deep learning architectures, including Swin Transformer, Efficient Net, and ConvNeXt, achieving 94.3% accuracy with a fine-tuned vision transformer model.
+* **Machine Learning Engineer** | Accenture Technologies | June 2020 - August 2022
+    * Optimized ML model deployment on AWS SageMaker with TensorFlow/PyTorch, integrating RESTful APIs for seamless inference, reducing deployment time by 50%.
+    * Designed scalable backend pipelines for data preprocessing and model serving, improving reliability, inference speed, and overall system efficiency.
+    * Enhanced deep learning model accuracy by 25%, leading to $550,000+ annual savings, and implemented A/B testing to boost production performance by 35%.
+    * Developed and deployed API endpoints to integrate ML models into software solutions, enabling real-time decision-making and improved accessibility.
 
-## Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## 🎓 Education
 
-(Add more tech badges relevant to your expertise. Use [Shields.io](https://shields.io/) for icons.)
+* **Master of Science in Data Science** | University of North Texas | August 2022 - May 2024
+    * Machine learning, LLM's, and Predictive analytics
 
+## 💻 Skills
+
+* **Languages:** Python, SQL, NoSQL, PySpark, Java, C++, Scala
+* **Frameworks/Libraries:** Gpt, Llama, Hugging face, NumPy, Pandas, Matplotlib, SciPy, TensorFlow, PyTorch, Keras, Scikit-learn, NLTK, LangChain
+* **Data Processing/ETL Tools:** Apache Spark, Hadoop, Kafka, PySpark
+* **Data Visualization Tools:** Tableau, Power BI, Seaborn, ggplot2
+* **Cloud Platforms:** GCP, AWS, Azure
+* **Maths & ML/DI:** Calculus, linear algebra, statistics and probability, SVM, Random Forests, KNN, Transformers
+
+## 🏆 Projects
+
+* **Document Summarization:** Engineered a sophisticated document summarization tool employing Transformer models like T5, BERT, and GPT-3.5; achieved a 30% decrease in processing time while enhancing overall accuracy by 25%. Pioneered the "Context-aware Chunking Strategy (CASC)" for effective summarization, demonstrating innovative applications of NLP techniques in legal tech.
+* **Lane Detection using YOLOR and OpenCVO:** Upgraded a real-time lane detection system utilizing YOLOR and OpenCV, improving lane detection precision by 15% and diminishing false positives by 20%. Implemented manual Region of Interest (ROI) selection for targeted lane tracking, improving the safety of autonomous vehicles and ADAS applications.
+
+## 🤝 Let's connect
+
+* [LinkedIn](https://www.linkedin.com/in/balachikkala/)
+* [Email](mailto:bala.chikkala@outlook.com)
+* [GitHub](https://github.com/balachikkala)
+
+Feel free to reach out if you have any questions or just want to connect!
